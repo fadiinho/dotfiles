@@ -1,7 +1,3 @@
 [submodule "nvim"]
 	path = nvim
-	url = git@github.com:fadiinho/dotfiles
-[submodule "git@github.com:fadiinho/dotfiles"]
-	url = nvim
-[submodule "git@github.com:fadiinho/nvim-dotfiles"]
-	url = nvim
+	url = git@github.com:fadiinho/nvim-dotfiles
